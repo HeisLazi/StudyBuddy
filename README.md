@@ -34,4 +34,6 @@ Please follow [SECURITY.md](SECURITY.md) and report vulnerabilities privately.
 
 ## License
 
-No open-source license has been selected yet. Until a license is explicitly added, the repository contents remain all rights reserved.
+Copyright © 2026 Lazarus Petrus. **All rights reserved.**
+
+StudyBuddy is proprietary software. Public visibility does not grant permission to copy, modify, distribute, sublicense, sell, or reuse the repository's contents without explicit written permission from the copyright holder. See [LICENSE](LICENSE).
